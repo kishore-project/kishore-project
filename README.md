@@ -29,7 +29,7 @@ I am a motivated and dedicated professional with a Master's degree in Computer A
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishore-project&show_icons=true&locale=en&layout=compact" alt="kishore-project" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishore-project&show_icons=true&locale=en" alt="kishore-project" /></p>
-
+<h3 align="left">🔥   My Stats :</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-project&" alt="kishore-project" /></p>
   
 <div align="center">
