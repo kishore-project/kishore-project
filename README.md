@@ -36,14 +36,3 @@ I am a motivated and dedicated professional with a Master's degree in Computer A
 <h3 align="left">🔥My Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-project&" alt="kishore-project" /></p>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kishore-project/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/kishore-project/kishore-project/output/snake.svg" alt="Snake animation" />
-
-###
